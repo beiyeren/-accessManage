@@ -3,18 +3,6 @@
 
 ## Setup ##
 
- Add a `composer.json` file to your project:
-
-```javascript
-{
-  "require": {
-      "php-amqplib/php-amqplib": "2.6.*"
-  }
-}
-```
-
-Then provided you have [composer](http://getcomposer.org) installed, you can run the following command:
-
 ```bash
 $ composer.phar install
 ```
