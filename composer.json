@@ -1,0 +1,7 @@
+{
+  "name": "rbac",
+  "description": "A simple access control.",
+  "autoload": {
+    "psr-4": {"Rbac\\": "src/"}
+  }
+}
